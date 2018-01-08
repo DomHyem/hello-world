@@ -1,2 +1,2 @@
 # hello-world
-Tutorial repository
+Tutorial repository for Git practice
